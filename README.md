@@ -23,7 +23,7 @@ Example Gem: https://explorer.tonnft.tools/nft/EQD5LNIPAH9DytTkkiw6cwNBfiOIJ4647
 2. Launch the first script with `node index.js`. That gets the wallets matching the discoveted key.
 ![1](https://user-images.githubusercontent.com/10156691/166644593-1f1bcb63-781d-4095-aafb-c867125d97a7.jpg)
 3. Follow the links and find the wallet having incoming transactions.
-4. Once the transaction was found it can be checked with https://explorer.tonnft.tools/nft/(paste the address).
+4. Once the transaction was found it can be checked with https://explorer.tonnft.tools/nft/ (paste the address).
 5. This gets you an image.
 <img width="1636" alt="2 (1)" src="https://user-images.githubusercontent.com/10156691/166644511-374d0397-82df-4301-aae5-4f3cb9edfbd3.png">
 
